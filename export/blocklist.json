@@ -1,6 +1,11 @@
 {
   "dids": [
     {
+      "did": "did:chia:174mceuhjcpv2c73urgtfmg6lsm7d0maa6glhtjh3kx6csne2k43q7x4046",
+      "reason": "impersonation",
+      "date": "2022-07-18T15:01:42.683"
+    },
+    {
       "did": "did:chia:1k74hq8jde9tve5vyyzw9vyy3alhvev792gchqdgsde8j9rg5u6ksfe35lc",
       "collectionId": "col1ll8gnv2ljymwkr20qv6tepnuml0pwj88w7y6mz5uuq7crhtcyn2q7ulsev",
       "nftId": "nft13z3h7yqyvdqwmw0w774tjcrnlhh79afcnjvg0r7jcflme7z88yxq00razv",
