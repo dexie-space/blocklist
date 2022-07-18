@@ -24,3 +24,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      - name: Notify marketplaces
+        run: |
+          curl -X POST https://api.dexie.space/v1/blocklist/update
+          curl -X POST https://api.mintgarden.io/blocklist/update
