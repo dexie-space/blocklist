@@ -10,7 +10,7 @@ A current exported blocklist is always available [here](https://raw.githubuserco
 
 You can use the reporting tool provided by dexie (link here soon) to report a DID or NFT collection. Alternatively add the affected DID to `dids/{did}.json` and create a pull request. The file should be in the following format:
 
-```
+```json
 {
   "did": "did:chia:1k74hq8jde9tve5vyyzw9vyy3alhvev792gchqdgsde8j9rg5u6ksfe35lc",
   "collectionId": "optional",
