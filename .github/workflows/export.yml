@@ -2,7 +2,7 @@ name: Export Blocklist
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   export:
@@ -12,13 +12,13 @@ jobs:
       - uses: actions/checkout@v3
       - name: Merge with jq
         run: jq -n '{"dids":[inputs]}' dids/*.json > export/blocklist.json
-        
+
       - name: Commit blocklist
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "merge blocklist" -a
-          
+          git commit -m "merge blocklist" -a || echo "Nothing to update"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
