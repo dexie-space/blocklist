@@ -22,6 +22,12 @@
       "reason": "impersonation",
       "nftId": "nft1lt6p9na2augfrs64j6gxa3hhlwlek8k37uzs23qrnayq78eay3nsu89als",
       "date": "2022-07-20T11:11:46.502Z"
+    },
+    {
+      "did": "did:chia:1zs8ckrztvcf7uz7d43xq9cz3v0xryg3hfu7eqagd3sdqlnx84w3swjj0u2",
+      "reason": "impersonation",
+      "nftId": "nft1g0a9mpmacqc3e8w05p4f8rllrwzxpdn8l770rnu0qw4qvat4r28sd37nxn",
+      "date": "2022-07-20T11:27:25.854Z"
     }
   ]
 }
