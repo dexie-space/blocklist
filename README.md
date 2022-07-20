@@ -4,11 +4,11 @@ NFT Marketplaces like Mintgarden or dexie share this blocklist to hide affected 
 
 ## Use the Blocklist
 
-A current exported blocklist is always available [here](https://raw.githubusercontent.com/dexie-space/blocklist/main/export/blocklist.json).
+The current exported blocklist is always available [here](https://raw.githubusercontent.com/dexie-space/blocklist/main/export/blocklist.json).
 
 ## Add an entry (Report)
 
-You can use the reporting tool provided by dexie (link here soon) to report a DID or NFT collection. Alternatively add the affected DID to `dids/{did}.json` and create a pull request. The file should be in the following format:
+You can use the [reporting tool provided by dexie](https://dexie.space/report) to report an NFT. Alternatively add the affected DID to `dids/{did}.json` and create a pull request. The file should be in the following format:
 
 ```json
 {
