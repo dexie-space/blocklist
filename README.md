@@ -24,4 +24,4 @@ Please provide additional informations about your report in the description of t
 
 ## Remove an entry (Appeal)
 
-To remove an entry, delete your DID from `dids/` and create a pull request. Please explain why your DID should be removed in the description of the pull request.
+To remove an entry, delete the DID from `dids/` and create a pull request. Please explain why the DID should be removed in the description of the pull request.
