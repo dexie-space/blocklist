@@ -77,6 +77,11 @@
       "date": "2022-07-25T16:07:03.946Z"
     },
     {
+      "did": "did:chia:1e8qjdxj9cchty68xjl6cypjxk483j2mwv5j8u642xjl3zawm7whq6tr6ns",
+      "reason": "Impersonation",
+      "date": "2022-08-09T07:11:46.745"
+    },
+    {
       "did": "did:chia:1estuh2j7jmjjcdss66j9ltp625mff92442m9lp6wjjgtccy4yugsmpr7sm",
       "reason": "impersonation",
       "nftId": "nft14vyhr74np2gq47e8u74msek46clyc0u9hpac8dxu4arm5az34lzqze24ec",
@@ -114,6 +119,11 @@
       "date": "2022-07-28T16:44:56.400Z"
     },
     {
+      "did": "did:chia:1m5zjjkdjx5x92czy88gfzc4zv0rn8z8yq8gpkpzxhnal2c65nq9qrs2c28",
+      "reason": "Impersonation",
+      "date": "2022-08-09T07:14:06.190"
+    },
+    {
       "did": "did:chia:1nmsg0tlv3zlnguarzgd5nk6xqa9kth8qae2gfwxqwjx6wmagywws286shs",
       "reason": "reason",
       "date": "2022-08-08T16:06:07.228"
@@ -123,6 +133,11 @@
       "reason": "impersonation",
       "nftId": "nft1lt6p9na2augfrs64j6gxa3hhlwlek8k37uzs23qrnayq78eay3nsu89als",
       "date": "2022-07-20T11:11:46.502Z"
+    },
+    {
+      "did": "did:chia:1ruf0n4n7xt5xa8ckf36lf73qxkzx0fpxkry6cfd3qlvle87tuvhsxp0us5",
+      "reason": "Impersonation",
+      "date": "2022-08-09T07:13:20.776"
     },
     {
       "did": "did:chia:1sd3qxh6va7hfkz5xnqltqcjzazprlaq3tq4uw4vjktfp7usu9xps64cadx",
