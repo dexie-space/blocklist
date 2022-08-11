@@ -88,6 +88,11 @@
       "date": "2022-08-09T01:45:52.035Z"
     },
     {
+      "did": "did:chia:1gg4hv9en7tkfqsmj0t7qr4rzcy64krmnzqz5efacjxjmu5e6ezhsee92dd",
+      "reason": "Impersonation",
+      "date": "2022-08-11T07:29:22.458"
+    },
+    {
       "did": "did:chia:1gyj99nar5x6tkxcajyqg2g4rlss4etyxh2w6prr0v0sajkjmp0hq2ldu82",
       "reason": "impersonation",
       "nftId": "nft1z47k8zvhh5drte576ezjh6quern3vkhfgvwt7a9pxw3xmw0f3uhs5dfphf",
