@@ -168,6 +168,11 @@
       "date": "2022-08-09T07:14:06.190"
     },
     {
+      "did": "did:chia:1n53phs7rl4henudjj4ewj6qayeajdl46epguz4e686y27hsw268qz4c7fw",
+      "reason": "Impersonation",
+      "date": "2022-08-18T10:33:35.159"
+    },
+    {
       "did": "did:chia:1nmsg0tlv3zlnguarzgd5nk6xqa9kth8qae2gfwxqwjx6wmagywws286shs",
       "reason": "reason",
       "date": "2022-08-08T16:06:07.228"
