@@ -163,6 +163,12 @@
       "date": "2022-08-10T20:07:28.604Z"
     },
     {
+      "did": "did:chia:1kh0h5057f8tqg38mg2zkll7x3a6vcjz9r2dhmxrmt2e6shmj3fusamuenc",
+      "reason": "illegal content",
+      "nftId": "nft1tcqcxh66jctxp083hz66gpf9l5fd3c7hfk53tp54afjywcllj83spuc9w7",
+      "date": "2022-08-20T17:00:05.821Z"
+    },
+    {
       "did": "did:chia:1lv2jqpkc5dfrdmxz3s9nuzh44wfshj72smuw0kvjzh42jwsmwgmsgfawy4",
       "reason": "spam",
       "nftId": "nft1jucsvej7wdvsxnp9u8gl5vasv3x7qstnvkv42malj5vlspah2dns6c2aaq",
