@@ -244,6 +244,11 @@
       "date": "2022-08-29T16:03:15.917"
     },
     {
+      "did": "did:chia:1pq0fdykhx7z33mlqptcdx3k7n4l5prp43nhjqg9s9dm349vvwprqg96wyr",
+      "reason": "Impersonation",
+      "date": "2022-09-03T16:38:50.892"
+    },
+    {
       "did": "did:chia:1qjsg7wqrxylhve9ev4ey6velslpyeykwtkmt32u3m5pjv46w40yskyycwv",
       "reason": "Impersonation",
       "date": "2022-09-03T16:38:22.139"
