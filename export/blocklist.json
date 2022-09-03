@@ -130,6 +130,11 @@
       "date": "2022-08-28T16:44:47.500"
     },
     {
+      "did": "did:chia:1cf69kzqzft3uxjszpn5g2jd0pk20pysmhqp5r5vfr4e7xfy6j36q53mykz",
+      "reason": "Impersonation",
+      "date": "2022-09-03T16:39:50.372"
+    },
+    {
       "did": "did:chia:1cpnwrzs6thkn3m6nvjpzdpzy3hpnpwyc5l9kz7h3xnn7e5fve7hshwl5zs",
       "reason": "Spam",
       "date": "2022-08-14T09:06:05.430"
