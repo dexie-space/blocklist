@@ -6,6 +6,11 @@
       "date": "2022-08-12T15:33:49.184"
     },
     {
+      "did": "did:chia:10gt6e8mydamcacd385g5kr0fvgpdk960jpnmp3kuvray68l56fxqus3cq3",
+      "reason": "Impersonation",
+      "date": "2022-09-03T16:35:42.767"
+    },
+    {
       "did": "did:chia:12aapugufyjcvukpjhtxreuamww75v49vs2rgc4l2ldankjccfhysewu83j",
       "reason": "impersonation",
       "nftId": "nft15ez6mw0z3l46llccmtawqzddjzydkcn4095nl0qaeh7z28dmhaaqgfjte4",
@@ -153,6 +158,11 @@
       "reason": "impersonation",
       "nftId": "nft1z47k8zvhh5drte576ezjh6quern3vkhfgvwt7a9pxw3xmw0f3uhs5dfphf",
       "date": "2022-07-22T13:58:25.043Z"
+    },
+    {
+      "did": "did:chia:1h2zq04r2fd89n4f8c52ass4q78mps48vuuzlq4fner0zwjdvdnxqq8ls7y",
+      "reason": "Impersonation",
+      "date": "2022-09-03T16:36:28.315"
     },
     {
       "did": "did:chia:1j4sy54020wfv32ava0v45v867zme0s2h59pj6smpzsyug3lywz9s0t87pg",
