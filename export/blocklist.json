@@ -157,6 +157,11 @@
       "date": "2022-07-26T02:57:49.342Z"
     },
     {
+      "did": "did:chia:1a3qeazhkjmswdj8yyd7kckv6el6rqg4k99mmmvlxr4wa8sq3tvqsa9auw6",
+      "reason": "Impersonation",
+      "date": "2022-09-04T07:57:57.904"
+    },
+    {
       "did": "did:chia:1a4z9cawd5yssy5zjaet93903cdhkqpyfh8p4pq0005pr9956tw0se4je58",
       "reason": "illegal content",
       "nftId": "nft1cetcusuw595w9sdwfjptfa4gaqva5mmdhcjx8c7yx9mms33xdqzsmy66vt",
