@@ -111,6 +111,11 @@
       "date": "2022-07-20T16:49:34.169Z"
     },
     {
+      "did": "did:chia:17uqpuy6njlxqzmgwvwu84fr9ad0n5heqmc7hu74p309tkhjvgfzs59a4nh",
+      "reason": "Impersonation",
+      "date": "2022-09-05T14:39:30.427"
+    },
+    {
       "did": "did:chia:182f7vh0vfukc6mk9tvhwh23v0c9y5nk73g8yecp28kptk9q3zrnqsr2064",
       "reason": "Impersonation",
       "date": "2022-09-03T16:39:20.127"
@@ -540,6 +545,11 @@
       "did": "did:chia:1whqtsezew55kwza0aljdekhaj3pq7tcp9catchlr0xdmp2c9t3qse7ffr4",
       "reason": "Impersonation",
       "date": "2022-09-03T17:00:00.000"
+    },
+    {
+      "did": "did:chia:1wzsm6usah7fkzem8nj98f2c60tf2deqasyntjxdcxaaas8sa7d3s6hnpxv",
+      "reason": "Impersonation",
+      "date": "2022-09-05T18:50:40.225"
     },
     {
       "did": "did:chia:1xhu7mknng7xxju597y3tk0qzlsd5gwrs3erd0r6khw4g3kgzmz5qsp839m",
