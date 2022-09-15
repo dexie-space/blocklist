@@ -161,6 +161,11 @@
       "date": "2022-07-20T12:48:07.170Z"
     },
     {
+      "did": "did:chia:19pwlh2c6r78gx5yvjkyuqsfsksg3dnjnnscxe4vwv6a87qtecu7sa70w2w",
+      "reason": "Impersonation",
+      "date": "2022-09-15T13:58:10.891"
+    },
+    {
       "did": "did:chia:19vsmpf6txaalhu8f8kgrgl9g0z36l4r79864fjl9q8xfslfwvh4qtywle0",
       "reason": "Impersonation",
       "date": "2022-09-15T13:56:40.261"
