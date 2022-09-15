@@ -661,6 +661,11 @@
       "reason": "impersonation",
       "nftId": "nft1g0a9mpmacqc3e8w05p4f8rllrwzxpdn8l770rnu0qw4qvat4r28sd37nxn",
       "date": "2022-07-20T11:27:25.854Z"
+    },
+    {
+      "did": "did:chia:1zv8tf9py93uv9z3adn0n2jqpvfymtlqt6qqkjgdxftqcqev05rhqzjwkq3",
+      "reason": "Impersonation",
+      "date": "2022-09-15T13:57:43.300"
     }
   ]
 }
