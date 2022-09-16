@@ -511,6 +511,11 @@
       "date": "2022-07-20T11:11:46.502Z"
     },
     {
+      "did": "did:chia:1rqww9qgcldsf099zclr3qdy2dytktadd4huyd34aed2cjzmk22ps4amk50",
+      "reason": "Impersonation",
+      "date": "2022-09-16T09:13:33.825"
+    },
+    {
       "did": "did:chia:1ruf0n4n7xt5xa8ckf36lf73qxkzx0fpxkry6cfd3qlvle87tuvhsxp0us5",
       "reason": "Impersonation",
       "date": "2022-08-09T07:13:20.776"
