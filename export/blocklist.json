@@ -64,6 +64,12 @@
       "date": "2022-09-03T17:00:00.000"
     },
     {
+      "did": "did:chia:13zhv3n77r43k7rpt8ekd698rsgxx56k29me00zuhz46p8mqtvykqspkh8u",
+      "reason": "impersonation",
+      "nftId": "nft1fak0gx8f3ur8kc95x7a7jjkerlku72g4e9wl39stsqnsl4gzrtvqhpn0as",
+      "date": "2022-09-23T09:03:27.294Z"
+    },
+    {
       "did": "did:chia:145dtxpwjk7hd60kaatqulx7tsyqkn3spuvpxk707e2vpvx5un57qugsg5d",
       "reason": "Impersonation",
       "date": "2022-09-03T17:00:00.000"
