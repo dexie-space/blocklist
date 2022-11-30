@@ -608,6 +608,11 @@
       "date": "2022-09-03T17:00:00.000"
     },
     {
+      "did": "did:chia:1s4ut8t6euuv5avxla0zhwtlnh0hrr5k3p68392feqh5zk0asuvfs2u6e6q",
+      "reason": "Impersonation",
+      "date": "2022-11-30T16:23:14.014"
+    },
+    {
       "did": "did:chia:1scwpjvl07ncwq2rn7zdam83qqgt8y3su7k74fvs0ju2m0wkm7etscede50",
       "reason": "Impersonation",
       "date": "2022-09-03T17:00:00.000"
