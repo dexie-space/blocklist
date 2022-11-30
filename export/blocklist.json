@@ -294,6 +294,12 @@
       "date": "2022-08-14T09:06:05.430"
     },
     {
+      "did": "did:chia:1ddzrja59xfr3svpkj500xwhyjytjeres2qqxm8r6ex5538s58zfq2twa5q",
+      "reason": "impersonation",
+      "nftId": "nft1fnjdl0hftlxuhspmhfl202klkftx6dav67dyw9vtta0runkl9d2s42arhf",
+      "date": "2022-11-30T20:01:43.455Z"
+    },
+    {
       "did": "did:chia:1de8rpfnw6xy7mzzxjpq720jppsssfjw4mgf3jweug6apqx0zertqec08jj",
       "reason": "impersonation",
       "nftId": "nft10m4s59g5t9xztvavdhmh6adwwumkk0g0f7qmx82f6ap6g7u5cznq3a5v0r",
