@@ -707,6 +707,11 @@
       "date": "2022-09-09T05:28:06.774"
     },
     {
+      "did": "did:chia:1vtpj9a28wn72ypuv545eql798dvfvey30j5t0hrl257p65evhq7q7wkc4a",
+      "reason": "Impersonation",
+      "date": "2022-11-30T16:25:32.755"
+    },
+    {
       "did": "did:chia:1vuldm3zydq0dmd79nhcctzt4m3hkx6760z30sa2d3dpn6lwpuklqy48uav",
       "reason": "Impersonation",
       "date": "2022-09-03T17:00:00.000"
