@@ -358,6 +358,11 @@
       "date": "2022-09-03T17:00:00.000"
     },
     {
+      "did": "did:chia:1g7y7s26uu50a7asmvdxfelf06juzc407hj73lvglhm5ghupsuhgsf3v46n",
+      "reason": "Impersonation",
+      "date": "2022-11-30T16:26:46.143"
+    },
+    {
       "did": "did:chia:1g9448py55h8qa44erxs0404r8gxr0y8jp4flzn5r56us2ee4gmsqvq9xnh",
       "reason": "impersonation",
       "nftId": "nft19unt55zc6c9qk5vaa55xu408r50jgwen3jdmcujphupxp4ldgjqqw3tkv5",
