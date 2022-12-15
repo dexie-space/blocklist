@@ -240,6 +240,11 @@
       "date": "2022-09-04T07:57:57.904"
     },
     {
+      "did": "did:chia:1a4atsnm7selzygxjvvqa0yke6xt779j3a3kzc87jcealkfa7vjqqt7etv7",
+      "reason": "Impersonation",
+      "date": "2022-12-15T06:11:35.397"
+    },
+    {
       "did": "did:chia:1a4z9cawd5yssy5zjaet93903cdhkqpyfh8p4pq0005pr9956tw0se4je58",
       "reason": "illegal content",
       "nftId": "nft1cetcusuw595w9sdwfjptfa4gaqva5mmdhcjx8c7yx9mms33xdqzsmy66vt",
