@@ -800,6 +800,12 @@
       "date": "2022-09-03T17:00:00.000"
     },
     {
+      "did": "did:chia:1w6f3yqvr6c6vjvuuhyk208uklx53nysh48g3tw78nkr852z97wcqy2t060",
+      "reason": "illegal content",
+      "nftId": "nft1t9lvdvc3ysywdmgzjw3gwnxj3e2mfuawx6mrme0tc6arda0j5yns0f3xvv",
+      "date": "2023-01-10T11:20:30.057Z"
+    },
+    {
       "did": "did:chia:1whqtsezew55kwza0aljdekhaj3pq7tcp9catchlr0xdmp2c9t3qse7ffr4",
       "reason": "Impersonation",
       "date": "2022-09-03T17:00:00.000"
