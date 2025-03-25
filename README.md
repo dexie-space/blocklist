@@ -8,7 +8,7 @@ The current exported blocklist is always available [here](https://raw.githubuser
 
 ## Add an entry (Report)
 
-You can use the [reporting tool provided by dexie](https://dexie.space/report) to report an NFT. Alternatively add the affected DID to `dids/{did}.json` and create a pull request. The file should be in the following format:
+Add the affected DID to `dids/{did}.json` and create a pull request. The file should be in the following format:
 
 ```json
 {
