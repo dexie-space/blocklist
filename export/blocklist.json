@@ -66,6 +66,11 @@
       "date": "2022-11-30T08:11:40.669Z"
     },
     {
+      "did": "did:chia:13kg0lg47t4gkkdqj6y7hx6lvyvgtreflsz7g5cq45clvlaeuun5qqzg469",
+      "reason": "Impersonation",
+      "date": "2025-05-13T06:38:31.526"
+    },
+    {
       "did": "did:chia:13lseaejzlwsuxa2n7ym59gp6pd9pu9cpefz70fmztthekr2rcneq4pzx52",
       "reason": "Impersonation",
       "date": "2022-09-03T17:00:00.000"
