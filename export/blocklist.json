@@ -1,6 +1,11 @@
 {
   "dids": [
     {
+      "did": "did:chia:10aj6cnzyr9c9c5anskmr5dhx2y4smfneu5zt3qk0rnn8lf0h66fs9z5zg8",
+      "reason": "Impersonation",
+      "date": "2025-09-03T17:51:31.526"
+    },
+    {
       "did": "did:chia:10dyv2tygvx3mfrhxu4xlr9q0xupcnvfm5rvssu7sstmkcrkwd2usdqzl6t",
       "reason": "Impersonation",
       "date": "2022-09-16T06:38:31.526"
